@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Teams Live Chat Test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+  <h1>Teams Live Chat Test Page</h1>
+  <p>
+    If everything is configured correctly, a chat widget should appear in the
+    bottom-right corner of this page.
+  </p>
+
+  <!-- Teams live chat / Customer Connect widget -->
+  <!DOCTYPE html><html><body><script type="text/javascript" src="https://res.public.onecdn.static.microsoft/customerconnect/v1/7dttl/init.js" id="chatbot" environmentId="77bdacad-3417-e60b-945b-66690d486905" crossorigin="anonymous"></script></body></html>
+</body>
+</html>
